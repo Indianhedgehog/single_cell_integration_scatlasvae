@@ -9,7 +9,7 @@ Python versions:
 Due to conflicts in packages scatlasVAE and clonal analysis was run in two diiferent environments:
 
 scatlasVAE 
-Pyhton Version: 3.8.20
+Python Version: 3.8.20
 
 TCR analysis/Scirpy
-Pyhton Version: 3.11.14
+Python Version: 3.11.14
